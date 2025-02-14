@@ -1,0 +1,4 @@
+(library
+ (name wrench_runner)
+ (public_name wrench.runner)
+ (libraries wrench fmt cmdliner notty))
